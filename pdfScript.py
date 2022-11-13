@@ -41,8 +41,8 @@ def readHTML(html, path) :
 
 
 st.set_page_config(
-                    page_title="BMS File Combiner - FP",
-                    page_icon=":arrow_down:"
+                    page_title="Manual PDF Generator - FP",
+                    page_icon=":arrow_up:"
 )
 
 # Show Fortress Logo
