@@ -55,7 +55,7 @@ st.title('Zoho Learn Manual PDF Generator')
 with st.expander("Instructions"):
      st.markdown(""
      "First upload the unzipped html export folder of the manual you dowload from zoho learn.  \n"
-     "Next if you want the images to be conserved in the output, input the path to the inline images folder of the manual.  \n"
+     "Next if you want the images to be conserved in the output, input the path to the inline images folder of the manual. Note the folder needs to be in your PCs downloads folder  \n"
     "Ex for the eFlex manual download if you unzipped the following:  \n"
      "Product-Manual---eFlex-5.4-10-04-2022-09_52/eflex-5-4-manual/inline-images  \n"
      "Copy into the input the path above the inline-images folder. Here this is:  \n" 
